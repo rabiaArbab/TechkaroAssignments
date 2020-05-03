@@ -1,0 +1,51 @@
+#main-doc{
+    font-family: sans-serif;
+    width: 1100;
+    height: auto;
+    text-align: justify;
+    justify-content: safe;
+    margin-left:-2em;
+}
+#navbar{
+    margin-left: 3em;
+    float: left;
+    padding: 1em;
+}
+.nav-link{
+    color: rgb(49, 49, 49);
+    text-decoration: none;
+    display: block;
+    border-bottom: 1px solid rgb(49, 49, 49);
+    border-right: 2px solid rgb(49, 49, 49);
+    position: relative;
+    padding: 0.6em;
+    padding-left: 1.6em;
+}
+.nav-bar-text{
+    list-style: none;
+    margin-top: -1.6em;
+}
+.nav-header{
+    margin-left: 1.6em;
+    font-size: 25px;
+    margin-top: -1.5em;
+    padding: 1em;
+    border-right: 2px solid rgb(49, 49, 49);
+    border-bottom: 1px solid rgb(49, 49, 49);
+    margin-bottom: 25px;
+}
+.main-section{
+    margin-left: 25em;
+    position: relative;
+    line-height: 30px;
+}
+code{
+    background-color: rgb(240, 239, 248);
+    display: block;
+    padding: 1em;
+    padding-left: 2em;
+}
+.main{
+    margin-left: 10px;
+}
+
